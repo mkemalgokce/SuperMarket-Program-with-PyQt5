@@ -21,4 +21,4 @@ My first try with PyQt5.
 - Default pass = 1234.  
 - You can change these in constant.py.  
 
-![alt text](https://github.com/mkemalgokce/marketsistemiwPyQt5/blob/main/image.png)
+![alt text](https://github.com/mkemalgokce/SuperMarket-Program-with-PyQt5/blob/main/image.png)
